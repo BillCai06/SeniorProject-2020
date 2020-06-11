@@ -20,12 +20,20 @@ git Clone https://github.com/BillCai06/SeniorProject-2020.git
 
 Now you get it.
 
+
+
 For upload:
 
 go to the dir of the project, then use:
+
 git add -A
+
 git commit -m " what you commiting ? "
+
 git push 
 
+
+
 For update local:
+
 git pull 
